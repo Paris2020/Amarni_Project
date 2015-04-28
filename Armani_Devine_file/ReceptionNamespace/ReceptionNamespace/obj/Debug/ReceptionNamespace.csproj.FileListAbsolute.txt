@@ -1,0 +1,5 @@
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\ReceptionNamespace\ReceptionNamespace\bin\Debug\ReceptionNamespace.dll
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\ReceptionNamespace\ReceptionNamespace\bin\Debug\ReceptionNamespace.pdb
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\ReceptionNamespace\ReceptionNamespace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\ReceptionNamespace\ReceptionNamespace\obj\Debug\ReceptionNamespace.dll
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\ReceptionNamespace\ReceptionNamespace\obj\Debug\ReceptionNamespace.pdb

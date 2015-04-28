@@ -1,0 +1,5 @@
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\CashSaleChangeNamespace\CashSaleChangeNamespace\bin\Debug\CashSaleChangeNamespace.dll
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\CashSaleChangeNamespace\CashSaleChangeNamespace\bin\Debug\CashSaleChangeNamespace.pdb
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\CashSaleChangeNamespace\CashSaleChangeNamespace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\CashSaleChangeNamespace\CashSaleChangeNamespace\obj\Debug\CashSaleChangeNamespace.dll
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\CashSaleChangeNamespace\CashSaleChangeNamespace\obj\Debug\CashSaleChangeNamespace.pdb

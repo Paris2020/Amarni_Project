@@ -1,0 +1,5 @@
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\MainMenuNamespace\MainMenuNamespace\bin\Debug\MainMenuNamespace.dll
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\MainMenuNamespace\MainMenuNamespace\bin\Debug\MainMenuNamespace.pdb
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\MainMenuNamespace\MainMenuNamespace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\MainMenuNamespace\MainMenuNamespace\obj\Debug\MainMenuNamespace.dll
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\MainMenuNamespace\MainMenuNamespace\obj\Debug\MainMenuNamespace.pdb

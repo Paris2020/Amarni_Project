@@ -1,0 +1,10 @@
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\CashSaleNamespace\CashSaleNamespace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\CashSaleNamespace\CashSaleNamespace\bin\Debug\CashSaleNamespace.dll
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\CashSaleNamespace\CashSaleNamespace\bin\Debug\CashSaleNamespace.pdb
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\CashSaleNamespace\CashSaleNamespace\obj\Debug\CashSaleNamespace.dll
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Projects\CashSaleNamespace\CashSaleNamespace\obj\Debug\CashSaleNamespace.pdb
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Nelly_Moseki\Projects\CashSaleNamespace\CashSaleNamespace\bin\Debug\CashSaleNamespace.dll
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Nelly_Moseki\Projects\CashSaleNamespace\CashSaleNamespace\bin\Debug\CashSaleNamespace.pdb
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Nelly_Moseki\Projects\CashSaleNamespace\CashSaleNamespace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Nelly_Moseki\Projects\CashSaleNamespace\CashSaleNamespace\obj\Debug\CashSaleNamespace.dll
+C:\Users\Nelly06\Desktop\Tertiary_Edu\Third_Year\Semester_2\Work_Integrated_Learning\Nelly_Moseki\Projects\CashSaleNamespace\CashSaleNamespace\obj\Debug\CashSaleNamespace.pdb
